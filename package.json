@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
   "postinstall": "npm install swiper && npm install react-icons 
-&& npm install swiper/css"
+&& npm install swiper"
   },
   "eslintConfig": {
     "extends": [
