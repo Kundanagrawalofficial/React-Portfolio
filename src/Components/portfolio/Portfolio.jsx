@@ -9,6 +9,7 @@ import IMG6 from "../../assets/portfolio6.jpg"
 import IMG7 from "../../assets/loves.png"
 import IMG20 from "../../assets/flak.jpeg"
 import IMG19 from "../../assets/movie.png"
+import IMG16 from "../../assets/TECHNICAL_HELPER_AND_GAMER_make_a_imgae_for_a_fully_responsive__511a2a1e-5c2b-4906-bcc9-3e6c4338c950.png"
 //DO NOT USE THE IMAGES IN THE PRODUCTION
 const data=[
   {
@@ -45,7 +46,7 @@ const data=[
   },
   {
     Id:5,
-    image:IMG5,
+    image:IMG16,
     title:"Fully Responsive Ecommerce website for Mobile Point only github ",
     github:"https://github.com/Kundanagrawalofficial/Mobile-Point/",
     demo:"https://dribble.com/shots/16673715-crypto-currency-dashborad-and-financial-data-visualization",
