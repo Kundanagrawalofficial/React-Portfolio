@@ -46,8 +46,8 @@ const data=[
   {
     Id:5,
     image:IMG5,
-    title:"crypto Currency Dashboard & Financial Visualization",
-    github:"https://github.com",
+    title:"Fully Responsive Ecommerce website for Mobile Point only github ",
+    github:"https://github.com/Kundanagrawalofficial/Mobile-Point/",
     demo:"https://dribble.com/shots/16673715-crypto-currency-dashborad-and-financial-data-visualization",
   
   },
