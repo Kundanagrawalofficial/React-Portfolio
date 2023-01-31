@@ -5,7 +5,7 @@ import CTA from './CTA'
 import Me from "../../assets/me.png"
 const Header = () => {
   return (
-   <header>
+   <header Id ="#">
     <div className='container header__container'>
       <h5>Hello I'm </h5>
       <h1>Kundan Agrwal</h1>
