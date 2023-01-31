@@ -6,9 +6,9 @@ import {IoLogoTwitter} from "react-icons/io"
 const Footer = () => {
   return (
   <footer>
-    <a href="#" className="footer__logo"></a>
+    <a href="https://kundan-react-portfolio.netlify.app/" className="footer__logo"></a>
     <ul className='permalinks'>
-    <li><a href='#'>Home</a></li>
+    <li><a href='https://kundan-react-portfolio.netlify.app/# '>Home</a></li>
     <li><a href='#about'>About</a></li>
     <li><a href='#experience'>Experience</a></li>
     <li><a href='#services'>Services</a></li>
