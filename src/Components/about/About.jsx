@@ -36,7 +36,7 @@ const About = () => {
            </article>
       </div>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint ab deserunt, reprehenderit perferendis, distinctio iusto autem minima illum consequuntur aut atque natus ducimus id adipisci debitis eum enim ex laborum!
+        As a software developer, I am highly skilled in creating efficient, scalable, and user-friendly software applications. I am passionate about utilizing the latest technologies and tools to build innovative solutions that solve complex problems and enhance user experiences. Whether I am working on the front-end or back-end of an application, I am committed to writing clean, maintainable code that is easy to understand and modify. I take pride in staying up-to-date with the latest industry trends and best practices, and I am always looking for ways to improve my skills and learn new things.
       </p>
       <a href='#contact' className='btn btn-primary'>
         Let's Talk
